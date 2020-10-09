@@ -1,0 +1,91 @@
+.heading {
+  text-align: center;
+}
+
+.table_class {
+  border: 1px solid black;
+  font-family: sans-serif;
+  background-color: darkgray;
+  margin-top: 50px;
+  border-spacing: 10px;
+  padding: 4px;
+}
+
+th {
+  font-family: sans-serif;
+}
+td {
+  border: solid 1px #ddd;
+  background-color: silver;
+  border-collapse: collapse;
+  padding: 1px 3px;
+  text-align: center;
+}
+
+.button {
+  font-family: sans-serif;
+  padding: 1px 3px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+
+.button2 {
+  font-family: sans-serif;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+input[type="text"] {
+  width: 200px;
+  padding: 5px 5px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+label {
+  font-family: sans-serif;
+  color: black;
+  padding: 8px;
+}
+
+select {
+  width: 200px;
+  padding: 5px 5px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}
+
+input[type="radio"] {
+  font-family: sans-serif;
+  padding: 8px;
+}
+
+.wrap {
+  display: block;
+}
+
+.wrap2 {
+  display: block;
+}
+
+.myDIV {
+  position: absolute;
+  top: 80px;
+  right: 0;
+  background-color: grey;
+
+  margin-right: 100px;
+  width: 300px;
+  height: 300px;
+}
+
+.myDIV2 {
+  width: 500px;
+  height: 500px;
+}
